@@ -4,7 +4,7 @@ const xml2js = require("xml2js");
 // Đường dẫn tới file đầu vào
 const inputFilePath = "D:/Working/VueTest/input/ssml.xml";
 // Đường dẫn tới file đầu ra
-const outputFilePath = "D:/Working/VueTest/output/outputFile/outputAB.txt";
+const outputFilePath = "D:/Working/VueTest/output/04/dialogue-player/public/outputAB.txt";
 
 fs.readFile(inputFilePath, "utf-8", (err, data) => {
     if (err) {

@@ -19,7 +19,7 @@ function extractTimestamps(inputFilePath, outputFilePath) {
 // Đường dẫn tới file JSON
 const inputFilePath = 'D:/Working/VueTest/input/timestamp.json'; // Thay bằng đường dẫn thực tế của file JSON
 // Đường dẫn tới file đầu ra
-const outputFilePath = 'D:/Working/VueTest/output/outputFile/timestamp.txt'; // Thay bằng đường dẫn thực tế của file .txt
+const outputFilePath = 'D:/Working/VueTest/output/04/dialogue-player/public/timestamp.txt'; // Thay bằng đường dẫn thực tế của file .txt
 
 // Gọi hàm
 extractTimestamps(inputFilePath, outputFilePath);
